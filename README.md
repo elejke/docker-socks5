@@ -52,6 +52,6 @@
    Для Telegram соответствующие настройки лежат в: 
    
    1. **iOS**: Settings - Data and Storage - Use Proxy
-   2. **Desktop**: Settings - Privacy and Secutiry - Use Proxy
+   2. **Desktop**: Settings - Privacy and Security - Use Proxy
    
 ## Беслатный сервер на Amazon [AWS](https://aws.amazon.com)
