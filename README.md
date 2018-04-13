@@ -1,6 +1,6 @@
 # Docker SOCKS5 Proxy
 
-Docker для запуска socks5 proxy-сервера
+Данный репозиторий позволит с минимальными затратами запустить свой собственный socks5 proxy-сервер.
 
 ## Quickstart
 
@@ -54,4 +54,4 @@ Docker для запуска socks5 proxy-сервера
    1. **iOS**: Settings - Data and Storage - Use Proxy
    2. **Desktop**: Settings - Privacy and Secutiry - Use Proxy
    
-   
+## Беслатный сервер на Amazon [AWS](https://aws.amazon.com)
